@@ -2937,5 +2937,15 @@ ol {
 	width: 70%;
 }
 #flyers{
+	margin-bottom: 40px;
+}
+#renglon{
 	margin-bottom: 20px;
+}
+.img-fluid{
+	margin-bottom: 30px ;
+}
+#flag{
+	width: 50%;
+	margin-left: 40px;
 }
